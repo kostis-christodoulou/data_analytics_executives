@@ -1,7 +1,9 @@
 # CD62 - CO62 
 
 All code and files for the C)62- CD62 course
+
 Kostis Christodoulou
+
 Spring 2026
 
 ## Notebooks
@@ -43,7 +45,7 @@ Spring 2026
 ### Group Project
 | Notebook | Link |
 |----------|------|
-| London Bikes | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/kostis-christodoulou/data_analytics_executives/blob/main/group-project/london_bikes.ipynb) |
+| London Bikes | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/kostis-christodoulou/data_analytics_executives/blob/main/group_project/london_bikes.ipynb) |
 <!-- | Bechdel Test| [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/kostis-christodoulou/e628/blob/main/session07-ML/bechdel_test.ipynb) |
 | HW4-EDA: Card fraud, energy, CPI | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/kostis-christodoulou/e628/blob/main/session07-ML/HW4.ipynb) | -->
 
