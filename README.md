@@ -1,5 +1,9 @@
 # CD62 - CO62 
 
+All code and files for the C)62- CD62 course
+Kostis Christodoulou
+Spring 2026
+
 ## Notebooks
 
 <!-- ### Week 1
