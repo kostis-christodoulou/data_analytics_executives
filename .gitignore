@@ -125,3 +125,6 @@ dmypy.json
 # Custom ignores
 .venv/
 /wip/
+
+# macOS
+.DS_Store
