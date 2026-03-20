@@ -2,7 +2,7 @@
 
 ## Notebooks
 
-### Week 1
+<!-- ### Week 1
 | Notebook | Link |
 |----------|------|
 | HW1 Avocados | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/kostis-christodoulou/e628/blob/main/session01-lecture01/HW1_Avocados.ipynb) |
@@ -34,7 +34,7 @@
 | Notebook | Link |
 |----------|------|
 | Forex data pipeline    | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/kostis-christodoulou/e628/blob/main/session09-ML_templates_finance/01_forex_data_pipeline.ipynb) |
-| Quant Risk Management | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/kostis-christodoulou/e628/blob/main/session09-ML_templates_finance/02_quant_risk_management.ipynb) |
+| Quant Risk Management | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/kostis-christodoulou/e628/blob/main/session09-ML_templates_finance/02_quant_risk_management.ipynb) | -->
 
 ### Group Project
 | Notebook | Link |
