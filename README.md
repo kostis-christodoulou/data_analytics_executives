@@ -1,6 +1,5 @@
-# CD62 - CO62 
-
-All code and files for the C)62- CD62 course
+# CO62 - CD62 
+All code and files for the CO62- CD62 course
 
 Kostis Christodoulou
 
@@ -18,18 +17,25 @@ Spring 2026
 |----------|------|
 | Student Scores Plots | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/kostis-christodoulou/e628/blob/main/session03-lecture03/04_student_scores_plots.ipynb) |
 | UK Polls Scraping & Tidy | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/kostis-christodoulou/e628/blob/main/session03-lecture03/uk_polls_scraping%2Btidy.ipynb) |
-| HW2 | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/kostis-christodoulou/e628/blob/main/session03-lecture03/HW2.ipynb) |
+| HW2 | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/kostis-christodoulou/e628/blob/main/session03-lecture03/HW2.ipynb) |-->
 
 
-### Week 3
+### Session 3
 | Notebook | Link |
 |----------|------|
-| northwind SQL | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/kostis-christodoulou/e628/blob/main/session05-lecture05/01_northwind_SQL.ipynb) |
-| duckdb arrow | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/kostis-christodoulou/e628/blob/main/session05-lecture05/02_duckdb_arrow.ipynb) |
-| nyc taxi duckdb maps | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/kostis-christodoulou/e628/blob/main/session05-lecture05/03_nyc_taxi_duckdb_maps.ipynb) |
-| HW3 | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/kostis-christodoulou/e628/blob/main/session05-lecture05/hw3-sql.ipynb) |
+| NYC Uber Lyft maps | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/kostis-christodoulou/data_analytics_executives/blob/main/session03/00_nyc_uber_lyft_maps.ipynb) |
+| Uber Surge Analysis | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/kostis-christodoulou/data_analytics_executives/blob/main/session03/01_uber_surge_analysis.ipynb) |
+| World Happiness | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/kostis-christodoulou/data_analytics_executives/blob/main/session03/02_world_happiness.ipynb) |
+| AAPL CAPM | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/kostis-christodoulou/data_analytics_executives/blob/main/session03/03_aapl_capm.ipynb) |
+| SP500 CAPM | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/kostis-christodoulou/data_analytics_executives/blob/main/session03/04_sp500_capm.ipynb) |
+| Concept Check 2 | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/kostis-christodoulou/data_analytics_executives/blob/main/session03/Concept_Check_2.ipynb) |
 
-### Week 4
+
+
+
+
+<!--
+### Session 4
 | Notebook | Link |
 |----------|------|
 | machine learning intro | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/kostis-christodoulou/e628/blob/main/session07-ML/01_machine_learning.ipynb) |
