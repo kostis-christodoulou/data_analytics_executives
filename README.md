@@ -34,9 +34,9 @@ Spring 2026
 ### Session 4s
 | Notebook | Link |
 |----------|------|
-| Smoking Birth Weight [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/kostis-christodoulou/data_analytics_executives/blob/main/session04/01_smoking_birth_weight.ipynb) |
-| Height and Earnings [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/kostis-christodoulou/data_analytics_executives/blob/main/session04/02_height_earnings.ipynb) |
-| Credit Linear Models [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/kostis-christodoulou/data_analytics_executives/blob/main/session04/03_credit_linear_models.ipynb) |
+| Smoking Birth Weight | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/kostis-christodoulou/data_analytics_executives/blob/main/session04/01_smoking_birth_weight.ipynb) |
+| Height and Earnings| [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/kostis-christodoulou/data_analytics_executives/blob/main/session04/02_height_earnings.ipynb) |
+| Credit Linear Models| [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/kostis-christodoulou/data_analytics_executives/blob/main/session04/03_credit_linear_models.ipynb) |
 
 
 <!--
