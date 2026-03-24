@@ -31,17 +31,15 @@ Spring 2026
 | Concept Check 2 | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/kostis-christodoulou/data_analytics_executives/blob/main/session03/Concept_Check_2.ipynb) |
 
 
-
+### Session 4s
+| Notebook | Link |
+|----------|------|
+| Smoking Birth Weight [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/kostis-christodoulou/data_analytics_executives/blob/main/session04/01_smoking_birth_weight.ipynb) |
+| Height and Earnings [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/kostis-christodoulou/data_analytics_executives/blob/main/session04/02_height_earnings.ipynb) |
+| Credit Linear Models [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/kostis-christodoulou/data_analytics_executives/blob/main/session04/03_credit_linear_models.ipynb) |
 
 
 <!--
-### Session 4
-| Notebook | Link |
-|----------|------|
-| machine learning intro | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/kostis-christodoulou/e628/blob/main/session07-ML/01_machine_learning.ipynb) |
-| Bechdel Test| [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/kostis-christodoulou/e628/blob/main/session07-ML/bechdel_test.ipynb) |
-| HW4-EDA: Card fraud, energy, CPI | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/kostis-christodoulou/e628/blob/main/session07-ML/hw4.ipynb) |
-
 ### Week 5
 | Notebook | Link |
 |----------|------|
