@@ -28,6 +28,7 @@ Spring 2026
 | World Happiness | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/kostis-christodoulou/data_analytics_executives/blob/main/session03/02_world_happiness.ipynb) |
 | AAPL CAPM | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/kostis-christodoulou/data_analytics_executives/blob/main/session03/03_aapl_capm.ipynb) |
 | SP500 CAPM | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/kostis-christodoulou/data_analytics_executives/blob/main/session03/04_sp500_CAPM.ipynb) |
+| Fama French | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/kostis-christodoulou/data_analytics_executives/blob/main/session03/05_Fama_French.ipynb) |
 | Concept Check 2 | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/kostis-christodoulou/data_analytics_executives/blob/main/session03/Concept_Check_2.ipynb) |
 
 
