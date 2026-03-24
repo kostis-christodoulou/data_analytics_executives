@@ -31,7 +31,7 @@ Spring 2026
 | Concept Check 2 | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/kostis-christodoulou/data_analytics_executives/blob/main/session03/Concept_Check_2.ipynb) |
 
 
-### Session 4s
+### Session 4
 | Notebook | Link |
 |----------|------|
 | Smoking Birth Weight | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/kostis-christodoulou/data_analytics_executives/blob/main/session04/01_smoking_birth_weight.ipynb) |
